@@ -14,44 +14,37 @@
     </head>
 
     <body>
-      <div class="header container">
+      <div class="header">
+        <div class="container">
           <a href="{{site.baseurl}}/">
-          <!--
-          <canvas class="art" width="800px" height="200px" data-pixel="10" data-colors="gray,darkgray,ghostwhite">
-            <splasher data-size="2" data-map="constant" data-params="10"></splasher>
-            <splasher data-size="5" data-map="cornerProximity" data-params="3"></splasher>
-            <splasher data-size="5" data-map="cornerProximity" data-params="3"></splasher>
-            <splasher data-size="5" data-map="cornerProximity" data-params="3"></splasher>
-          </canvas>
-          -->
-          <h2><a href="{{site.baseurl}}/">{{site.name}}</a></h2>
+          <h1><a href="{{site.baseurl}}/">{{site.name}}</a></h1>
           </a>
+        </div>
       </div>
+
       <div class="container content">
-
-
         {{content}}
-
       </div>
-      <!--
+
       <div class="footer">
-        <div class="container">
-            <h1>Contents</h1>
-            {% for chapter in site.one %}
-              <p><a href="{{chapter.url  | prepend:site.baseurl}}">{{chapter.title}}</a></p>
-            {% endfor %}
+        <div class="container" id="contact">
+          <h1>Support this project</h1>
+          <p><a target="_blank" href="https://ko-fi.com/abuseofnotation">Ko-fi</a></p>
+          <p><a target="_blank" href="https://patreon.com/abuseofnotation">Patreon</a></p>
         </div>
       </div>
 
       <div class="footer">
         <div class="container">
-            <h1>Download</h1>
-            <p><a href="{{site.baseurl}}/book.epub">as epub</a></p>
-            <p><a href="{{site.baseurl}}/book.txt">as txt</a></p>
-          </div>
+
+          <h1>Created by Jencel Panic</h1>
+          <p><a target="_blank" href="/">personal blog</a></p>
+          <p><a href="mailto:marinovboris@protonmail.com">email</a></p>
+          <p><a target="_blank" rel="me" href="https://mathstodon.xyz/abuseofnotation">mastodon</a></p>
+          <p><a target="_blank" href="https://twitter.com/AlexanderKatt/">twitter</a></p>
+          <p><a target="_blank" href="https://github.com/abuseofnotation/time">Github</a></p>
         </div>
       </div>
-      -->
 
       <div class="footer">
         <div class="container">

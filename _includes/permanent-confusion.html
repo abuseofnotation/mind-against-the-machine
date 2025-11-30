@@ -1,13 +1,18 @@
-  <h1>Permanent Confusion</h1>
+
+<div class="book-title">
+  <a href="{{site.baseurl}}/confusion-breeds-clarity/">
+  <h1>Confusion breeds clarity</h1>
+  </a>
+</div>
 
   <article class="chapter-preview">
-    <canvas class="art" width="200px", height="100px" data-pixel="1" data-repeat="2000" data-colors="black,pink,grey">
+    <canvas class="art chapter-image" width="200px", height="100px" data-pixel="1" data-repeat="2000" data-colors="black,pink,grey">
     <splasher data-size="intensoReversed" data-size-params="50" data-map="diagonals" data-params="1000"></splasher>
     </canvas>
   </article>
 
   <div id="quotes">
-  {% for post in site.permanent-confusion%}
+  {% for post in site.confusion-breeds-clarity%}
     {% if post.quote %}
     <blockquote class="quote">
         {{post.quote}}
@@ -37,7 +42,7 @@
     })
   </script>
 
-  {% for post in site.permanent-confusion%}
+  {% for post in site.confusion-breeds-clarity%}
     <article class="chapter-preview">
       <a href="{{site.baseurl}}{{post.url}}">
         <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
@@ -47,6 +52,6 @@
     </article>
   {% endfor %}
 
-  <a href="{{site.baseurl}}/permanent-confusion.pdf"><i>pdf</i></a>
-
-  <a href="{{site.baseurl}}/permanent-confusion-full"><i>Full text (printable version)</i></a>
+  <!--
+  <a href="{{site.baseurl}}/confusion-breeds-clarity-full"><i>Full text (printable version)</i></a>
+  -->
