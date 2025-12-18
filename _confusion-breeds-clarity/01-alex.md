@@ -3,7 +3,7 @@ title: Meeting my roommate
 subtitle: 'Alex / Picking friends / Who am I / How switching places would solve both of our issues'
 layout: one
 image: >
-    <plasher data-size="constant" data-size-params="50" data-map="hallway" data-params="19"></plasher>
+    <splasher data-size="constant" data-size-params="50" data-map="hallway" data-params="19"></plasher>
     <plasher data-size="constant" data-size-params="1" data-map="constant" data-params="5"></plasher>
 ---
 
