@@ -1,0 +1,4 @@
+"i wonder how much of "reality" is laden with idea-logic interwoven directly into it as one holographic gestalt?"
+
+All of it?
+I question that. what about the bare perception before object permanence ? if we take your definition of ideal-logos as being "all of reality" then before object permanence there is no reality. whereas, if we take "idea" as "ideen" as the seen, then it does make sense, because it can be interpreted as neural processing of the seen, but then if i'm very present and not dividing into things, can there still be reality? is the division presupposed in the perception? that's also questionable. i think we're mistaking something downstream for being the origin upstream, unless we accept that reality is downstream of some other movement, like perhaps actuality, which is also mentalistic.
