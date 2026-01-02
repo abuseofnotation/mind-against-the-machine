@@ -3,8 +3,8 @@ title: Meeting my roommate
 subtitle: 'Alex / Picking friends / Who am I / How switching places would solve both of our issues'
 layout: one
 image: >
-    <splasher data-size="constant" data-size-params="50" data-map="hallway" data-params="19"></plasher>
-    <plasher data-size="constant" data-size-params="1" data-map="constant" data-params="5"></plasher>
+    <splasher data-size="constant" data-size-params="50" data-map="hallway" data-params="19"></splasher>
+    <splasher data-size="constant" data-size-params="1" data-map="constant" data-params="5"></splasher>
 ---
 
 The room was small and filled with furniture, up to the point where two people can hardly pass by without touching themselves. <span class="voice-alex">"Call me Alex!"</span>, my new roommate said that while standing up just next to the bed he was probably occupying, and smiling with a childish smile. I thought he was over-friendly, but his voice was so loud and firm, that I could not think of an appropriate semi-sarcastic response which I could use to distance myself from him, without being rude (<span class="voice-maxim">"OK", "If you insist"</span>, etc.), so I just shook his hand and started a regular conversation, asking him how old he was, for how long had he been staying there etc. but to my surprise, although still very friendly, he wasn't at all eager to answer my questions, and it even seemed that some of them he did not know the answers of. So unusual were his reactions that for the first few days I had the suspicion that he might be "actually insane" - a fact which understandably made me uncomfortable, especially since, given the fact that both of us were under the same circumstances, such categorizations were far from objective. My mind could help but think that probably *I* was insane and he was the normal one, and he seemed insane to me thus.

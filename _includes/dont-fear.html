@@ -1,0 +1,51 @@
+<div class="book-title">
+  <a href="{{site.baseurl}}/dont-fear">
+  <h1>Don't Fear </h1>
+  </a>
+</div>
+
+  <article class="chapter-preview">
+
+  </article>
+
+  <div id="quotes">
+  {% for post in site.dont-fear%}
+    {% if post.quote %}
+    <blockquote class="quote">
+        {{post.quote}}
+        <p>from <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </p>
+    </blockquote>
+    {% endif %}
+  {% endfor %}
+  </div>
+
+  <script>
+    var getRandomInt = (max) => {
+      return Math.floor(Math.random() * Math.floor(max));
+    }
+    var quote = document.getElementById('quotes')
+    var quotesArray = Array.prototype.slice.call(quote.children)
+
+    var quoteIndex = getRandomInt(quotesArray.length)
+    console.log({quoteIndex, quotesArray})
+    quotesArray.forEach((quote, i) => {
+          console.log({quoteIndex, quote, i})
+          if (i === quoteIndex) {
+            quote.setAttribute("style", 'display:block')
+            } else {
+            quote.setAttribute("style", 'display:none')
+            }
+    })
+  </script>
+
+  {% for post in site.dont-fear%}
+    <article class="chapter-preview">
+      <a href="{{site.baseurl}}{{post.url}}">
+        <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        <i>{{ post.subtitle }}</i>
+        </p>
+      </a>
+    </article>
+  {% endfor %}
+

@@ -27,6 +27,9 @@ collections:
   confusion-breeds-clarity:
     output: true
     permalink: confusion-breeds-clarity/:path/
+  dont-fear:
+    output: true
+    permalink: dont-fear/:path/
 
 
 #
