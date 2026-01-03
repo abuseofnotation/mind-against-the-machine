@@ -17,7 +17,11 @@
       <script 
         id="comic-web" 
         type="module" 
+        {% if jekyll.environment == "development" %}
+        src="{{site.baseurl}}/assets/comic-web-markup/plugin.js"
+        {% else %}
         src="https://abuseofnotation.github.io/comic-web-markup/plugin.js"
+        {% endif %}
         data-url-dir="{{site.baseurl}}/assets/dont-fear-comic"
         data-file-type="svg"
         data-width="500"

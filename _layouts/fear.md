@@ -10,9 +10,7 @@ layout: default
       </a>
     </div>
         <div class="artwork">
-        <img class="comic-web-panel" src="./comic/04.svg" alt="
-{{page.image}}
-        "></img>
+        <img class="comic-web-panel" src="./comic/04.svg" alt="{{page.image}}"></img>
         </div>
 
         <h2>{{page.subtitle}}</h2>
