@@ -30,6 +30,10 @@ collections:
   dont-fear:
     output: true
     permalink: dont-fear/:path/
+    order:
+      - blog.md
+      - 0101.md
+      - 0001.md
 
 
 #

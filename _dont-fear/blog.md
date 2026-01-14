@@ -1,14 +1,14 @@
-
 so, i got some job, a good job in comparison with most of the jobs today – no big deal though. i just hate those bastards that get some lousy jobs just for their friends to say “wow” and to write those damn blog entries about what they did today in the office. do you notice how my style of writing resembles Salinger’s in “the catcher in the rye” btw, i just finished it (very good book but the end is a little weaker than the rest of the book). so i dont have much to do as you probably can guess, i dont understand how can people can be so stupid. In order to make the average man to complete some task you must lock him in an office – a place without any kind of amusement, hold him there for eight hours without letting him out except for lunch and watch him in not to start playing minesweeper or something. people like me, who do some things, who work just for the hell of it are irrelevant in offices like the one i’m in now. my colleagues use every second to rest a little, i don’t like resting in my workplace.
 
 Fuck that, i do more work when im at home.
-
 
 according to the majority of people i live a normal life
 
 but my life doesnt satisfy me
 
 i want out!
+
+
 
 -1- i h8 exclamation marks and their corresponding emotions. ive probably used it five or six times in my life!
 
@@ -19,7 +19,6 @@ i want out!
 -4- i produce music, write poetry and prose (as you no doubt know) i drink and smoke joint in my spare time and consider graphic design my “hobby”.
 
 -5- check the blog’s title.
-
 
 
 she’s lying on her stomach- im lying on her.
