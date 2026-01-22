@@ -1,6 +1,6 @@
 ---
 title: The dinner
-subtitle: 'About me' 
+subtitle: "Arriving to dinner / "
 layout: fear
 image: |
     JENCEL
@@ -34,10 +34,10 @@ I knew that he was also angry with me because of my earlier blaberring about the
 "Back in my day things were different": "Then why do you think the old advice applies."
 ...
 
-At the end of the evening he became drunk again and I felt sorry for him. Imagine if you were at his place: There are you, soon to past the age for pension, but still working, hoping to retire soon (and to finally get the mythical payoff), there is your son, who will soon leave your house for good (and doesn't look like he is coming over to see you often). You are longing to pour the lessons that you recorded during all of your life to him, and all he does is silence each attempt, with well-executed comeback. As everyone realized, I didn't *want* to do all of this, but at the same time, this was all I *could* do. I felt as if I was in the wrong house, the wrong country, the wrong planet, and I was stuck pretending to be someone who I was not.
+At the end of the evening he became drunk again and I felt sorry for him. Imagine if you were at his place: There are you, soon to past the age for pension, but still working, hoping to retire soon (and to finally get the mythical payoff that you have been dreaming about all your life (although you don't really know what it is and from where would it come from)), there is your child, who will soon leave your house for good (and doesn't look like he is coming over to see you very often), so you are longing to pour the lessons that you recorded during all of your life to him, and all he does is silence each attempt, with well-executed comeback (OK, perhaps not so well-executed, but still effective enough), slowly destroying your whole world with his stubborn ignorance... 
 
+As you probably realize, I didn't *want* to do all of this, but at the same time, this was all I *could* do to preserve the little self-respect that I had. And yes, it was painful. I often felt as if I was in the wrong house, the wrong country, the wrong planet, and stuck playing the role of someone who I was not. And I tried to convince everyone that I was not that person. I tried to play his role as badly played as I possibly could, I smiled when I was supposed to be serious, and cried when I was supposed to be happy, I behaved in a way that was hurtful of other people, all in a secret hope that one day they will understand the underlying reason. All in secret hope that one day the director would yell "Cut:!" and just kick me out. And this would surely have happened if the director was human. But there wasn't a human there, everything around me were just extensions of the machine.
 
+Just in the middle of one of my father's speeches I remembered the phenomenon and I got the most freaky idea ever: what if the light that I saw was all-encompassing. What if it was just sitting there every second from every day, or even not only there but everywhere, litterary under my nose, right now. But there was just noone that had eyes to see it. What if the machine just dimmed that light, making it invisible for me. If so, this was progressing fast, so if I didn't do anything now, than the only thing that I would be able to do later is dream about that one time I saw it. 
 
-I remember, what I thought: “Damn it, why do I even have to reason logically, if we can’t reach anything. Can’t I just be free.” 
-
-
+When I finished my thought, my mother had already left the room and my father was finishing his drink, and talking about something, pronouncing one word each few seconds.

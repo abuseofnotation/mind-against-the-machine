@@ -1,7 +1,15 @@
+---
+title: Curious
+subtitle: 'About me' 
+layout: fear
+image: |
+    JENCEL
+    Hi
+---
 
 I again remembered what had happened to me and the desire to share it with someone returned. Not tomorrow, not the day after, but now. So I decided not to go home, but to call someone to meet. I started browsing the contacts on my mobile phone, but out of 200 people, recorded there, there was only one who was awake now. Only one, who would be open-minded enough to hear my story, and to say their opinion about it. But unfortunately, this person now most likely was under the influence, and he had many other things he wanted to listen to.
 
-The Curious One lived in a dilapidated house at the end of the city, which he bought for a pittance because the previous owner had convinced himself it was haunted. I never figured out how he managed to acquire it without any financial help from his parents (his mother worked a miserable job, and his father had been dead for ten years) and at one point I settled with the explanation that he is one of those people to whom such things just happen. The rooms of the house he didn’t use, Anton rented out and as a result the house was always full of people, who were so many, and changed so often, that I perceived them as part of the interior. Although, once I was one of them...
+The Curious lived in a dilapidated house at the end of the city, which he bought for a pittance because the previous owner had convinced himself it was haunted. I never figured out how he managed to acquire it without any financial help from his parents (his mother worked a miserable job, and his father had been dead for ten years) and at some point I had to settle with the explanation that he is one of those people to whom such things just happen. The rooms of the house he didn’t use, Anton rented out and as a result the house was always full of people, who were so many, and changed so often, that I perceived them as part of the interior. Although, once I was one of them...
 
 Okay, let me structure my thought in points:
 
