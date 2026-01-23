@@ -1,6 +1,6 @@
 ---
 title: Curious
-subtitle: 'About me' 
+subtitle: '' 
 layout: fear
 image: |
     JENCEL

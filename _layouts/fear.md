@@ -9,10 +9,13 @@ layout: default
       <h1>Don't fear</h1>
       </a>
     </div>
+        <!--
         <div class="artwork">
         <img class="comic-web-panel" src="./comic/04.svg" alt="{{page.image}}"></img>
         </div>
+        -->
 
+        <h1>{{page.title}}</h1>
         <h2>{{page.subtitle}}</h2>
 
         <div class="prev-next">
