@@ -42,6 +42,6 @@ Just in the middle of one of my father's speeches I remembered the phenomenon an
 
 When I finished my thought, my mother had already left the room and my father was finishing his drink, and making a long drunken speech, pronouncing one word each few seconds.
 
-""
+"I... wanted... to... make you... better than the rest"
 
-This was the beginning of a long partly incoherent. 
+This was the beginning of a long speech which I couldn't stop with my usual tactics, as it was too incoherent for me to know how to respond (plus there was no one listening to me anyways). I think it was meant to address my lack of motivation. I didn't actually lack motivation I just wasn't too inspired at follow the path that was following (which was partly dictated by him and by my mother), but I didn't even try to tell him all that, I didn't want to prolong the conversation any more, as the pain wast almost physical. I was listening to it only in order to find a place to stop it, which might seem ironic. 
