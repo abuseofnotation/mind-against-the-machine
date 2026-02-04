@@ -1,6 +1,6 @@
 ---
 title: The dinner
-subtitle: "Arriving to dinner / "
+subtitle: "Arriving to dinner / Trying to discuss the phenomenon with parents / Father's speech "
 layout: fear
 image: |
     JENCEL
@@ -44,4 +44,27 @@ When I finished my thought, my mother had already left the room and my father wa
 
 "I... wanted... to... make you... better than the rest"
 
-This was the beginning of a long speech which I couldn't stop with my usual tactics, as it was too incoherent for me to know how to respond (plus there was no one listening to me anyways). I think it was meant to address my lack of motivation. I didn't actually lack motivation I just wasn't too inspired at follow the path that was following (which was partly dictated by him and by my mother), but I didn't even try to tell him all that, I didn't want to prolong the conversation any more, as the pain wast almost physical. I was listening to it only in order to find a place to stop it, which might seem ironic. 
+This was the beginning of a long speech which I couldn't stop with my usual tactics, as it was too incoherent for me to know how to respond (plus there was no one listening to me anyways). I think it was meant to address my lack of motivation. I didn't actually lack motivation I just wasn't too inspired at follow the path that was following, which was partly dictated by him and by my mother. So I wanted to scream "Your fault!" and leave, but I didn't even try to imply to him all that, I didn't want to prolong the conversation any more, as the pain was almost physical and I was listening to it only in order to find a place to stop it. But finding such place took a lot of effort, as if he knew what I wanted to escape and was purposefully closing all doors on me, keeping me confided in the little box that he had built since my birth. But at some point he missed a beat and, he asked me a question:
+
+"and now with your position in... wait, what was the name of the company?"
+
+"What? You don't even know where I work!" -- I screamed and rushed away to my room.
+
+"Wait!" --- he said, but by the time he caught his breath I was already off.
+
+I really didn't care if he knew where I work, but I pretended to take offence, so I could storm out of the situation. This might seem ironic to you, as you probably realize that I could have gone to my room much earlier, and the result won't be much different from what just happened, but at that time I was really trying to play by the rules. It was important for me to "win" the argument, to the extend that it was possible. Later that I realized that this was one of my major mistakes. 
+
+"My life is like a prison"
+
+I wrote this in my personal website some months earlier.
+
+I was quite correct in pinpointing the problem, pinpointing how I, and many other people, felt, but I was off at identifying the cause --- I thought, that I was kept in this prison by systems of power that I sometimes refer to as "machine", like school, parents, bosses etc. and so I set to fight those.
+
+But, after advancing with this fight, I realized that it is not the systems of power per se that limit me (although they are certainly designed to do that, and certainly help) but rather my engagement with those systems --- fighting your parents, bosses etc. would just make you more like them. So, advance to the next stage, cancel them, stop engaging. Don't break free, just walk away. 
+
+The systems of power are only holding your material self, divorce from it and you are free. Moreover, this is the only way to be free, otherwise you are just moving into a bigger cell. But I realized all this much later. 
+
+
+But all this comes much later. At that moment, as I was laying under my blanket, feeling like shit, for reasons I could not pinpoint (it's not as if I didn't know that my father was an asshole), the only thought that I could form in it's entirety was this: at least now I have motivation. I was prepared to do everything to escape. Alas it was too late for me.
+
+I again remembered what had happened to me earlier in the day, and the desire to share it with someone returned. Not tomorrow, not the day after, but now. So I decided to call someone. But as I started browsing my contacts I realized that only one who was awake now. Only one, who would be open-minded enough to hear my story. But unfortunately, this person now most likely was under the influence, and he had many other things he wanted to listen to.

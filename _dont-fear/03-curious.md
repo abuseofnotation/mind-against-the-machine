@@ -7,15 +7,14 @@ image: |
     Hi
 ---
 
-I again remembered what had happened to me and the desire to share it with someone returned. Not tomorrow, not the day after, but now. So I decided not to go home, but to call someone to meet. I started browsing the contacts on my mobile phone, but out of 200 people, recorded there, there was only one who was awake now. Only one, who would be open-minded enough to hear my story, and to say their opinion about it. But unfortunately, this person now most likely was under the influence, and he had many other things he wanted to listen to.
-
-The Curious lived in a dilapidated house at the end of the city, which he bought for a pittance because the previous owner had convinced himself it was haunted. I never figured out how he managed to acquire it without any financial help from his parents (his mother worked a miserable job, and his father had been dead for ten years) and at some point I had to settle with the explanation that he is one of those people to whom such things just happen. The rooms of the house he didn’t use, Anton rented out and as a result the house was always full of people, who were so many, and changed so often, that I perceived them as part of the interior. Although, once I was one of them...
+Anton, or "Curious", as we called him in school, lived in a dilapidated house at the end of the city, which he bought for a pittance because the previous owner had convinced himself it was haunted. I never figured out how he managed to acquire it without any financial help from his parents (his mother worked a miserable job, and his father had been dead for ten years) and at some point I had to settle with the explanation that he is one of those people to whom such things just happen. The rooms of the house he didn’t use, Anton rented out and as a result the house was always full of people, who were so many, and changed so often, that I perceived them as part of the interior, although, once I was one of them...
 
 Okay, let me structure my thought in points:
 
 1.  In school, I didn’t belong to any group, but since I still had to be friends with someone, I forced myself to hang out with the other kids, who also didn’t belong to any group. And one of them was Anton.
-2.  Anton really liked asking stupid questions, and as a result, the teachers and our classmates gave him the nickname the Curious One. And since this nickname suited him very well, I still call him that to this day.
-3.  After school, the Curious One bought the said house. Then he decided he had made the deal of his life and decided to become a rentier and spend his free time (that is, all the time) smoking marijuana and drinking.
+
+2.  Anton really liked asking stupid questions, and as a result, the teachers and our classmates gave him the nickname "Curious". And since this nickname suited him very well, I still call him that to this day.
+3.  After school, Curious bought the said house. Then he decided he had made the deal of his life and decided to become a rentier and spend his free time (that is, all the time) smoking marijuana and drinking.
 4.  Due to circumstances, I absolutely had to move out and live separately from my parents. And since Anton and I were buddies in school, he gave me the best room in the house for a floating rent (I gave him as much as I could spare) and my company.
 5.  After a few years, I decided to build a career in the company, where I still work. Because the work there was a lot and the office was on the other side of Sofia, I systematically got tired from all the noise in the house.
 6.  After a while, I found a new apartment and little by little lost touch with the Curious One.
