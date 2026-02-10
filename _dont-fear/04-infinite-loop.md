@@ -5,21 +5,21 @@ layout: fear
 image: |
 ---
 
-Anton wasn't as lazy as most people thought. His strength was like the electrical energy stored in lightning, which could solve all the world's energy problems, but is so powerful and untamed that no one has the resources to harness it. When an idea possessed him, Anton was able to handle the hammer and nails as well as the computer. He built entire mountains in seconds, as if every detail was planned in his head, regardless of the knowledge and skills required to make it. And when he didn't have that knowledge, he flipped through the pages of books like money-counting machines flip through banknotes, and processed huge amounts of information in seconds.
+The next day I woke up to a hundred messages from Anton, regarding the phenomenon and it's possible causes and meanings, and I convinced myself again that Anton wasn't as lazy as most people thought. His strength was like the electrical energy stored in lightning, which could solve all the world's energy problems, but is so powerful and untamed that no one has the resources to harness it. When an idea possessed him, Anton was able to handle the hammer and nails as well as the computer. He built entire mountains in seconds, as if every detail was planned in his head, regardless of the knowledge and skills required to make it. And when he didn't have that knowledge, he flipped through the pages of books like money-counting machines flip through banknotes, and processed huge amounts of information in seconds.
 
 The myth of his laziness was probably a consequence of the wrong idea about him that his mother, his relatives, and so on had. Here's how they reasoned: "A person with Anton's abilities could with minimal effort complete higher education, start a serious job, and in general do all those things that are expected of him. But he doesn't do it despite that, therefore he must be very lazy." And here's what they missed: a person with great abilities (and hence with great self-confidence) also needed great stimuli. And as a result, Anton couldn't do something just because it was expected of him. On some days, he didn't even have the strength to get out of bed if he didn't find a good enough reason to do so. And for him, those reasons were few and in most cases fleeting.
 
 That's why my friend led this self-destructive lifestyle I've been describing so far. This was the lifestyle that corresponded to the side of his character that most people knew. The loud, angry side, the drinking, and staying up late side, which filled its time with aimless loafing. Anton himself didn't like it and tried to overcome it, for which purpose he went through all sorts of sciences, arts, and philosophies, in search of things that would engage his restless mind. And for some reason, such a thing in this case was the Phenomenon.
 
-I understood Anton well because I was also, like him, sad most of the time, although we were also quite different in how we handled our situation: my misery was hard to bear, but it was never crushing, it was dark, but never pitch black and I was always able to look away and distract myself, to lose the constraints that my feelings imposed upon me. 
+I understood Anton well because I was also, like him, felt sad most of the time, although we were also quite different in how we handled our situation: my misery was hard to bear, but never crushing, it was dark, but never pitch black and I was always able to look away and distract myself, to lose the constraints that my feelings imposed upon me. In short, my world was not a world of DARKNESS but one of FOG.
 
-My world was not a world of *darkness*, but one world of *fog*.
+And my desire to get away from the fog was strong but formless, I constantly kept losing my way, was often amids two or three different things, never without a path, but also never actually following one. 
 
-Because of that, my desire to get away of the dark place was strong but formless. I kept losing my motivation to get away, 
+This can be confirmed by my current state: I was in the middle of two cases, two PLOTS, if you will: the investigation of the phenomenon, and my ambition to become financially independent, but none of these were being resolved anytime soon. I didn't even know which should be the main one. 
 
+So, 
 
-
-
+The fact was that I neither wanted to look at Anton's messages, nor I wanted to do something at work.
 
 "I combed through half the Internet while looking for witness accounts of the other beam." He spoke with an inflamed tone, as if deliberately wanting to hide how excited he had been during the events he was telling about. "When I didn't find anything, I started interrogating all acquaintances and strangers in the city. I spent over eight hours non-stop communicating with people, half of whom decided I was completely crazy... Anyway... In the end, an old girlfriend wrote to me. She claims that some neighbor of hers had experienced something similar to what you did. Now we'll check if that's really true."
 "Okay, and where exactly does she live?"
@@ -155,22 +155,6 @@ He laughed, as if I had told him a killer joke.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 My thoughts suddenly returned to my first encounter with the Phenomenon. Unknown. But wasn't I there... In a human brain. Its essence was in front of me. If I tried to describe it in a programming language.... Maybe I could...
 
 My fingers themselves touched the keyboard. The pain returned, but this time it was so light I felt it almost like an itch, which not only didn't bother me but even helped me concentrate. I didn't fully understand what I was writing. The meaning of the individual lines escaped me, and the standard brain processes that traditionally accompanied work had taken a back seat. With them, the fear of failure also disappeared, and I was already sure that this afternoon would end interestingly.
@@ -178,9 +162,6 @@ My fingers themselves touched the keyboard. The pain returned, but this time it 
 My hands moved faster and faster, so I couldn't even follow which keys I was pressing, and I got more and more confused in my attempts to follow my own logic, until finally I lost it completely. All that remained was to wait until the work was finished.
 
 After about an hour, I began to gradually regain control. It became more and more difficult to translate my thoughts, and I began to miss words and entire commands, but by the time I started thinking consciously, and consequently making mistakes, the main work was already done. All that remained was to write a few additional things, which were elementary compared to what I had done so far. I leaned back and reviewed my work from beginning to end. The code was written in my style, there was no doubt about that, but it was many times more perfect than the junk that usually came out of my hands. For twenty minutes, I just browsed aimlessly through it to see where I could add something. There wasn't any. I took a breath and loaded the file into the test machine.
-
-
-
 
 
 

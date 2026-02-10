@@ -9,7 +9,7 @@ image: |
 
 I stopped in front of the entrance to my apartment, as I had done thousands of times, and then the pain in my head totally disappeared. I had a feeling that saddened me slightly. The strange gave way to the mundane. "Was there even anything there?" I thought. "Or is this some psychological mechanism for coping with the sensory deprivation, caused by staring at monitors all day?" 
 
-Pretty soon, I was having dinner with my mother (yes, I still live with my parents—I know, very funny). She asked me how my day went, and I tried to structure the story that I had just experienced in a way that wouldn't make the story sound made up.
+Pretty soon, I was having dinner with my mother (yes, I still live with my parents—I know, veeeery funny). She asked me how my day went, and I tried to structure the story that I had just experienced in a way that wouldn't make the story sound made up.
 
 >Note: You're least able to take notes precisely when you most need to.
 
@@ -64,6 +64,8 @@ But after advancing with this fight, I realized that it wasn't the systems of po
 
 The systems of power are only holding your material self, divorce from it and you are free. Moreover, this is the only way to be free, otherwise you are just moving into a bigger cell. But I realized all this much later. 
 
-At that moment, as I was lying under my blanket, feeling like shit, for reasons I could not pinpoint (it's not as if I didn't know that my father was an asshole), the only thought that I could form in its entirety was this: at least now I had motivation. I was prepared to do everything to escape. Alas it was too late for me.
+At that moment, as I was lying under my blanket, feeling like shit, for reasons I could not pinpoint (it's not as if I didn't know that my father was an asshole), the only thought that I could form in its entirety was this: at least now I had motivation. I was prepared to do everything to escape this place.
 
-I again remembered what had happened to me earlier in the day, and the desire to share it with someone returned. Not tomorrow, not the day after, but now. So I decided to call someone. But as I started browsing my contacts I realized that only one person was awake now. Only one who would be open-minded enough to hear my story. But unfortunately, this person was now most likely under the influence, and had many other things on his mind.
+I again remembered what had happened to me earlier in the day, and the desire to share it with someone returned. Not tomorrow, not the day after, but now. So I decided to call someone. But as I started browsing my contacts I realized that only one person was awake now. Only one who would be open-minded enough to hear my story. 
+
+But unfortunately, this person was now most likely under the influence, and had many other things on his mind.

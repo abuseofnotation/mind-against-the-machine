@@ -27,7 +27,7 @@ As always, the door of the house was open. I entered the huge hall, which occupi
 
 Instead of answering me, the person I'd addressed and a few of his friends started laughing at my question, and gradually almost all the people in the room joined the laughter (even those who had no idea what the joke was). Then, one of them started explaining to me that at the beginning of the evening, this person had bet with someone else that he could, without a problem...
 
->Note: "Don't ask stupid questions, unless you want to hear the stupid answers."
+>Note: Don't ask stupid questions, unless you want to hear the stupid answers.
 
 I looked at the people once more and after not finding anyone I knew, headed toward the back of the room. Curious was there, sitting on a huge armchair. He was wearing a baseball cap that darkened his whole face, and hid from his gaze everything except a thick book on his lap, which he was reading so fervently that its pages were tearing at the corners. I stood next to him and said "Hello." He turned toward me for a second, just to confirm my identity, and then buried his nose in the volume again, while simultaneously talking to me.
 
@@ -35,7 +35,7 @@ I looked at the people once more and after not finding anyone I knew, headed tow
 
 "Nothing special."
 
->Note: "This question seems to have become redundant."
+>Note: This question seems to have become redundant.
 
 I said this as a prelude to the story about the phenomenon, but he took it literally and immediately took the floor and started telling me an anecdote from the book he was reading about the philosopher Ludwig Wittgenstein: Apparently, when Wittgenstein was deciding if he wanted to dedicate his life to philosophy, he gave his mentor Bertrand Russell a manuscript for review, and told him "Read this and tell me if I am a complete idiot."
 
@@ -99,7 +99,7 @@ He took another sip of vodka and moved closer to me:
 
 He got up from his chair and headed toward the library. The books there weren't arranged in any order, but despite that, he immediately found the one he wanted to show me.
 
->Note: "Never think you know someone."
+>Note: Never think you know someone.
 
 "It was some book on Buddhism."
 
@@ -131,7 +131,7 @@ I stopped listening to this conversation, trying to come to terms with the fact 
 
 "Okay," I said to Curious, after the wine crisis was resolved. "So you believe in god, is that it?"
 
->Note: "Atheists are allowed to write 'god' with a lowercase letter."
+>Note: Atheists are allowed to write 'god' with a lowercase letter.
 
 "I don't know if I believe in god, what's the connection?"
 
@@ -151,7 +151,7 @@ Curious took it to the other part of the room, which was a bit better lit, start
 
 "Considering you're a mathematician, you probably feel quite uncomfortable with the concept of infinity," Curious burst out laughing.
 
-With this remark, he broke the ice and our conversation took off. We started discussing the role of religion through the ages. Gradually, the memory of the Phenomenon began to fade from my head, and even started to seem more pleasant than confusing. I searched for the window, to catch a glimpse of the sky. Perhaps the light was there, waiting for me to look at it... But I suddenly remembered that I had to work the next day and that I'd decided I wanted to finally kick off my career, so I could make money, so I could get away from my parents (long chain of thought for my past 2 a.m. brain).
+With this remark, he broke the ice and our conversation took off. We started discussing the role of religion through the ages. Gradually, the memory of the Phenomenon began to fade from my head, and even started to seem more pleasant than confusing. I searched for the window, to catch a glimpse of the sky. Perhaps the light was there, waiting for me to look at it... But it wasn't. And I suddenly remembered that I had to work the next day. I wanted to finally kick off my career, so I could make money, so I could get away from my parents (long chain of thought for my past 2 a.m. brain).
 
 "Okay, let's end today's meeting," I said. "I'm going to steal a few hours of sleep before work."
 
