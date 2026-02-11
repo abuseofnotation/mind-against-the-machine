@@ -7,6 +7,7 @@ image: |
     Hi
 ---
 
+
 I stopped in front of the entrance to my apartment, as I had done thousands of times, and then the pain in my head totally disappeared. I had a feeling that saddened me slightly. The strange gave way to the mundane. "Was there even anything there?" I thought. "Or is this some psychological mechanism for coping with the sensory deprivation, caused by staring at monitors all day?" 
 
 Pretty soon, I was having dinner with my mother (yes, I still live with my parents—I know, veeeery funny). She asked me how my day went, and I tried to structure the story that I had just experienced in a way that wouldn't make the story sound made up.
@@ -19,9 +20,13 @@ She responded with a well-executed silence (I don't know why she always accuses 
 
 And then my father spoke up:
 
-"Forget that, tell me how work went?"
+"Forget that, tell me how work went?" 
 
-For some time this was the only topic he (my father) was interested in. He was obsessed with my work the same way he'd been obsessed with my school when I was a student, an obsession that dated back even before I started school—an obsession which had neither beginning nor end, one that was never fruitful, that only sucked the joy out of both my life and his. When I was at school, this obsession was at least controlled by the marking system; when I got a good mark (as I most often did) I would be left alone. But with my time in the office, there was no such thing. It seemed that for him there was no "correct" way to act in a given situation. For him there wasn't even a *correct situation* to be in, as he didn't approve of the organization I worked in and was angry with me, even though he knew that I only worked there simply because they were hiring a person with my background. 
+And with that, I knew that the discussion related to the phenomenon was over, as for some time this was the only topic that he (my father) was interested in. He was obsessed with my work the same way he'd been obsessed with my school when I was a student, an obsession that dated back even before I started school—an obsession which had neither beginning nor end, one that was never fruitful, that only sucked the joy out of both my life and theirs. 
+
+Ever since I started school I was a sickly child with no social contacts, except for those with my mother and father, and their statements formed my entire worldview. Their message (even though they never have expressed it) was simple: "If you want us to love you, you have to make us proud of you. And for us to be proud of you, you have to be the best. We went through a lot to raise you. And so far, the only way for you to repay us is to become a respected member of our society. Right now, school is your only concern, so do well."
+
+I don't know when this turned to such obsession, but at school, it (their obsession) was at least controlled by the marking system; when I got a good mark (as I most often did) I would be left alone. But with my time in the office, there was no such thing. It seemed that for him there was no "correct" way to act in a given situation. For him there wasn't even a *correct situation* to be in, as he didn't approve of the organization I worked in and was angry with me, even though he knew that I only worked there simply because they were hiring a person with my background. 
 
 I knew that he was also angry with me because of my earlier blabbering about the phenomenon, so I tried to fake enthusiasm, saying that it went very well—that was the only way for me to stop this conversation before it derailed to a dark place, as it often did. Or perhaps it's more appropriate to say that the dark place was the conversation's usual destination.
 
