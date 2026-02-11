@@ -5,8 +5,8 @@ layout: default
 <div class="chapter-zero">
 
     <div class="book-title">
-      <a href="{{site.baseurl}}/dont-fear/">
-      <h1>Don't fear</h1>
+      <a href="{{site.baseurl}}">
+      <h1>The phenomenon</h1>
       </a>
     </div>
         <!--

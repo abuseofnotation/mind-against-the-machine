@@ -1,9 +1,10 @@
 ---
 title: The Chosen one
-subtitle: 'About me' 
+subtitle: ''
 layout: fear
 image: |
     JENCEL
     Hi
 ---
 
+TBD

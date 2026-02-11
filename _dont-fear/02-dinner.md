@@ -1,6 +1,7 @@
 ---
 title: The dinner
 subtitle: "Arriving to dinner / Trying to discuss the phenomenon with parents / Father's speech "
+quote: 'The systems of power are only holding your material self, divorce from it and you are free.'
 layout: fear
 image: |
     JENCEL

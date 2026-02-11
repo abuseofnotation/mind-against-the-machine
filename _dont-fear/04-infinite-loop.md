@@ -2,6 +2,7 @@
 title: Infinite Loop
 subtitle: "On Anton's laziness / The main plot / the phenomenon returns"
 layout: fear
+quote: 'My world was not a world of DARKNESS but one of FOG.'
 image: |
 ---
 

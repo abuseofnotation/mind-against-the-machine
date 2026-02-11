@@ -2,6 +2,7 @@
 title: Curious
 subtitle: "Anton's story / A party at Anton's house / Anton's take on the phenomenon"
 layout: fear
+quote: 'To assimilate what we see, we liken it to what is most familiar to us. And those are probably the two things we humans know best — water and light.'
 image: |
     JENCEL
     Hi
