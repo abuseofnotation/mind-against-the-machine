@@ -910,7 +910,7 @@ I realized I was going crazy just looking at Anton, as if every pore of his skin
 NOTE:
 From now on, I'll go straight home without dawdling too much.
 
-I wouldn't say this out loud, but I think I became a programmer precisely because of that desire for control that Anton talked about. It's a job that isolates you from all unpredictable factors and where everything that happens is a direct or indirect result of your actions – in the good case direct, and in the bad – indirect. Complete control. And from there comes my problem. To believe that I am some form of messiah would mean to admit to myself that I have no power over myself, and that my fate depends entirely on an unexplored force whose purpose is unknown to me.
+i wouldn't say this out loud, but i think i became a programmer precisely because of that desire for control that anton talked about. it's a job that isolates you from all unpredictable factors and where everything that happens is a direct or indirect result of your actions – in the good case direct, and in the bad – indirect. complete control. and from there comes my problem. to believe that i am some form of messiah would mean to admit to myself that i have no power over myself, and that my fate depends entirely on an unexplored force whose purpose is unknown to me.
 
 "I'm a bit tired now," I said to him. "Maybe I'll go."
 "Relax, you can sleep at my place."

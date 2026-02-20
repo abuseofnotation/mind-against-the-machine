@@ -1,6 +1,6 @@
 ---
 title: The phenomenon
-subtitle: "Social Darwinism / How I didn't do any work / The light / Locked in my brain"
+subtitle: "On offices / On social Darwinism / How I didn't do any work / The light / Locked in my brain"
 quote: 'The contradiction was the wall that marked the end of the corridor'
 layout: fear
 image: |
@@ -12,11 +12,14 @@ In order to make the average man complete some task you must lock him in an offi
 
 Still, as every other day, I parked in my spot in front of the office, greeted the doorman, and entered the elevator. On the way, I grabbed a newspaper but found nothing interesting and tossed it. I entered our department's room, and a familiar scene unfolded before me. I'd title it something like: "My colleagues, sitting at their computers." This sight annoyed me simply because I saw it every day. I made myself a coffee and sat in front of the computer. I was currently expected to work on a project for software that could think independently. Or something like that. The task came yesterday and was so unclear that I even gave up trying to understand it and spent the whole day reading random stuff on the Internet.
 
->Note: There's no point in developing artificial intelligence—there are enough real ones, who aren't being used for anything.
+>There's no point in developing artificial intelligence—there are enough real ones, who aren't being used for anything.
+{: .note}
 
-My colleagues weren't much more oriented than I was, but I knew that this would soon change, because unlike me, they were capable of adapting to what was asked of them. Every time we started a project, they would start getting interested in the field we had to work in, and talk about it during breaks. And if we worked long enough, some of them would even change as people, depending on the circumstances. It seemed to me that the better a person mastered this skill, the more diligently and confidently they worked, held a higher position, and generally, Darwin's theory applied quite universally to the rise of people in the corporate hierarchy and the melting away of their individuality: The corporate machine always wants more agents—more numerous and more complicit. It wants more power, more influence on society, it wants its logo on every surface on the planet. So if you agree to play, you will be powerful... 
+My colleagues weren't much more oriented than I was, but I knew that this would soon change, because unlike me, they were capable of adapting to what was asked of them. Every time we started a project, they would start getting interested in the field we had to work in, and talk about it during breaks. And if we worked long enough, some of them would even probably change as people, depending on the circumstances. It seemed to me that the better a person mastered this skill, the more diligently and confidently they worked, held a higher position, and generally, Darwin's theory applied quite universally to the rise of people in the corporate hierarchy and the melting away of their individuality: The corporate machine always wants more agents—more numerous and more complicit. It wants more power, more influence on society, it wants its logo on every surface on the planet. So if you agree to play, you will be powerful... 
 
-I wanted to be powerful too, simply because I had too many issues that could be fixed with some power. My issue was that in the same way in which the machine wanted more, my mind wanted to have less and less to do with it. I wanted to ultimately go live in the woods. Only, I didn't realize that it is possible.
+I wanted to be powerful too, simply because I had too many issues that could be fixed with some power. My issue was that in the same way in which the machine wanted more, my mind wanted to have less and less to do with it. Ever since I started programming, I developed a crush for the least used technology, least used programming language that existed: a language called Haskell
+
+There is an interesting story about how I came to like Haskell, that I recalled in the middle of this eventless day. I wanted to be a programmer ever since I was a kid. And back then, I imagined that programming worked like mathematics --- you wrote some clever formulas, clever functions and things started appearing on the screen. Then, when I started working, I discovered that programming was actually entirely different. Some nervous people, messing with 5000-row long files, until something worked. But the even stranger part was when I discovered Haskell---programming Haskell was exactly how I envisioned that programming should be. However, programming Haskell, programming properly was harder, and so noone really wanted to do it. Ever since that time, I wrote all my programs in Haskell and then I re-wrote them in the language that I had to use. I was sometimes successful, but not currently.
 
 There were ten minutes left until the end of the workday, and my script was empty as a brain after a lobotomy. "You can't commit it like that," I told myself. "That would mean officially admitting you haven't done any work." I took a deep breath and typed a few lines of code, but they were so wrong that I couldn't even answer why they didn't work. I tried again. The same "Why?" appeared at the second symbol. And every letter my hand touched spawned thousands of questions that I couldn't even grasp, let alone answer.  
 
@@ -56,7 +59,8 @@ I stood up and tried to brush off the dust, but my hand passed through my body. 
 
 As soon as I stepped into it, the first in a series of memories invaded my head. The peculiar thing about these memories was that they weren't about things that had happened to me, but rather things I had thought. This particular one was from my childhood, but I didn't remember the time or place. Instead I could with crystal clarity reconstruct the reasoning I had back then, done with elementary child logic. They were general reasonings—like what mom does at work, or why they didn't let me come with them, but at that time these things were apparently important to me. The more I advanced through the tunnel, the more clearly I remembered the thoughts that had passed through my head at that moment. I progressed through my reasoning faster and faster, until finally, I couldn't continue, because my childhood logic reached an irresolvable contradiction. In that same moment, the tunnel ended. And that wasn't a coincidence—the contradiction *was* the wall that marked the end of the corridor. And with my expanded vision, I sensed other people, as before—each locked in their own labyrinth. Each bumping into their walls. Alone.  
 
-> Note: Why do we even think logically if we cannot get to anything of substance? Why can't we just be free?
+> Why do we even think logically if we cannot get to anything of substance? Why can't we just be free?
+{: .note}
 
 I stepped into more tunnels, hoping to escape, but the more recent the memories were, the more walls there were. In the last tunnel—the one I had hollowed out a few hours ago—there were more contradictions than in the others, and I whirled through it like a fish in an aquarium. And new contradictions constantly appeared, narrowing the tunnel, and making me feel claustrophobic. The light became darkness. I felt there was no way out. 
 
@@ -69,5 +73,3 @@ I got up from the ground and looked around. The surrounding landscape seemed fam
 "The light! Did they figure out what it is? Did they say anything about it on the news?"
 
 "No, they didn't say anything on the news," the man said slowly. "And now would you please remove your car from my garage?"
-
-

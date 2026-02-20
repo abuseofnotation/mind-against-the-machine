@@ -28,7 +28,8 @@ As always, the door of the house was open. I entered the huge hall, which occupi
 
 Instead of answering me, the person I'd addressed and a few of his friends started laughing at my question, and gradually almost all the people in the room joined the laughter (even those who had no idea what the joke was). Then, one of them started explaining to me that at the beginning of the evening, this person had bet with someone else that he could, without a problem...
 
->Note: Don't ask stupid questions, unless you want to hear the stupid answers.
+>Don't ask stupid questions, unless you want to hear the stupid answers.
+{: .note}
 
 I looked at the people once more and after not finding anyone I knew, headed toward the back of the room. Curious was there, sitting on a huge armchair. He was wearing a baseball cap that darkened his whole face, and hid from his gaze everything except a thick book on his lap, which he was reading so fervently that its pages were tearing at the corners. I stood next to him and said "Hello." He turned toward me for a second, just to confirm my identity, and then buried his nose in the volume again, while simultaneously talking to me.
 
@@ -36,7 +37,8 @@ I looked at the people once more and after not finding anyone I knew, headed tow
 
 "Nothing special."
 
->Note: This question seems to have become redundant.
+>This question seems to have become redundant.
+{: .note}
 
 I said this as a prelude to the story about the phenomenon, but he took it literally and immediately took the floor and started telling me an anecdote from the book he was reading about the philosopher Ludwig Wittgenstein: Apparently, when Wittgenstein was deciding if he wanted to dedicate his life to philosophy, he gave his mentor Bertrand Russell a manuscript for review, and told him "Read this and tell me if I am a complete idiot."
 
@@ -100,7 +102,8 @@ He took another sip of vodka and moved closer to me:
 
 He got up from his chair and headed toward the library. The books there weren't arranged in any order, but despite that, he immediately found the one he wanted to show me.
 
->Note: Never think you know someone.
+>Never think you know someone.
+{: .note}
 
 "It was some book on Buddhism."
 
@@ -132,7 +135,8 @@ I stopped listening to this conversation, trying to come to terms with the fact 
 
 "Okay," I said to Curious, after the wine crisis was resolved. "So you believe in god, is that it?"
 
->Note: Atheists are allowed to write 'god' with a lowercase letter.
+>Atheists are allowed to write 'god' with a lowercase letter.
+{: .note}
 
 "I don't know if I believe in god, what's the connection?"
 

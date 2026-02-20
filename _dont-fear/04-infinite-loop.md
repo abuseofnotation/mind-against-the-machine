@@ -16,7 +16,8 @@ I understood Anton well because I also felt sad most of the time, although we we
 
 I traveled to the office on autopilot. When I entered the room, I noticed my boss smiling at me, but I excused myself, preferring not to talk, and hid behind my monitors and started answering my messages. I decided to call Anton, because reading everything he had written would take too long. He was much more enthusiastic than I was, although he surely hadn't slept:
 
-"I combed through half the Internet while looking for witness accounts of the other beam." He spoke with an inflamed tone, as if deliberately wanting to hide how excited the events had made him. "When I didn't find anything, I started interrogating all acquaintances and strangers in the city. I spent hours nonstop communicating with people, half of whom decided I was completely crazy... In the end, an old girlfriend wrote to me. She claimed that some neighbor of hers had experienced something similar to what you did. Now we'll check if that's really true..."
+Call me. I have an idea about where to go. Call me!
+{: .message}
 
 I promised them we would do that sometime and moved on to my work messages: the CEO of the company had written a memo on the importance of artificial intelligence and of the task that I had tried to solve yesterday, saying that everyone should take a look at it and give suggestions on how we can solve it.
 
@@ -38,4 +39,5 @@ My hands moved faster and faster, until I couldn't even follow which keys I was 
 
 After about an hour, I gradually began to regain control. It became more and more difficult to translate my thoughts, and I began to miss words and entire commands, but by the time I started thinking consciously and consequently making mistakes, the main work was already done. All that remained was to write a few additional things, which were elementary compared to what I had done so far. I leaned back and reviewed my work from beginning to end. The code was written in my style; there was no doubt about that, but it was many times more perfect than the junk that usually came out of my hands. For twenty minutes, I browsed aimlessly through it to see where I could add something. There was nothing. I took a breath and loaded the code into the test environment. It immediately made an infinite loop that crashed my machine. The whole environment also crashed and stopped the work of several hundred people working with us.
 
-Did I mention that I forgot to save?
+Don't forget to save.
+{: .note}
