@@ -1,6 +1,6 @@
 ---
 title: The phenomenon
-subtitle: "On offices / On social Darwinism / How I didn't do any work / The light / Locked in my brain"
+subtitle: "On offices / On social Darwinism / How I didn't do any work today / The phenomenon / Locked in my brain"
 quote: 'The contradiction was the wall that marked the end of the corridor'
 layout: fear
 image: |

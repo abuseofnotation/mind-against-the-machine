@@ -6,9 +6,6 @@ quote: 'Sometimes it seemed to me that I was missing something very important fr
 image: |
 ---
 
-One week. One mind that won't stop asking questions the machine has no interest in answering.
-
-
 "My world was not a world of DARKNESS but one of FOG."
 
 The Phenomenon is a novel about a feeling most people recognise but few can name — the claustrophobia of a mind that sees its cage, but cannot find the door. About the particular experience of being awake, dissatisfied, and stuck — in an office, in a family, in a city, in your own skull. About the conversations that drain you and the silence that follows. About the moments of sudden, inexplicable clarity that appear and dissolve without explanation.

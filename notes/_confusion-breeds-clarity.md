@@ -1,3 +1,5 @@
+
+
 Characters
 ===
 
@@ -11,11 +13,6 @@ Catherina: (single-minded) (extroverted) An upper-class girl who tried and succe
 Maxim (X): (non-conformist) (extroverted) a timid mathematician, who is searching for his identity among the different people in the sanatorium.
 
 Anna: (non-conformist) (introverted) (confident) A friend of Catherine from school who always copies her, but is much more immature than her. A troubled girl who rejects everyone and lives only through books. In the sanatorium she strives to get better
-
-
-(self-assertive) (single-minded) (extroverted) 
-(unconfident) (naughty) (introverted)
-(self-assertive) (naughty) (extroverted)
 
 Catherina's friends
 ---
@@ -40,9 +37,6 @@ Jane: A monk who leads zen practices in order to relax the patients
 
 Dora: A very promiscuous nurse.
 
-Visitors
----
-
 Plots 
 ===
 
@@ -55,18 +49,20 @@ Plots
 
 - AMX tricks Dimitar into doing something obscene in order to have him in their pocket
 
-Paragraphs
+Shorter
 ===
 
 - The stranger who kissed me
 
 - Fucking girls with notebooks 
 
-- How incompetent programmers become project managers 
-
 - The lost second when time is adjusted
 
 - Quantum suicide
+
+- How I am neither an introvert, nor an extrovert
+
+- Going on the top of the mountain
 
 Ideas
 ===
@@ -75,19 +71,9 @@ Ann's seisures
 
 Nina
 
-Themes
-===
-
-ableism
-
-capitalism
-
-climate change
-
 
 Titles
 ===
-
 
 Love fetish
 
@@ -96,10 +82,4 @@ perverted virgin
 permanently lost
 
 A live not yet lived
-
-Plot lines
-===
-
-Going on the top of the mountain
-
 

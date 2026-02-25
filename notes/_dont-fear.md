@@ -1,3 +1,12 @@
+Characters
+
+
+Plots
+===
+- Anton joins "Food not bombs"
+- X goes is in love with a friend of Yana's
+- 
+
 I realized I was going crazy just looking at Anton, as if every pore of his skin had turned into a miniature mouth that constantly spat on everything and everyone who had ever set foot on this planet. He believed only in himself, couldn't tolerate anyone else's opinion, and the worst part was that what he said really sounded logical. The nasty brat... Even if he spoke the biggest and most unheard-of nonsense, for some reason when I was with him, it sounded super logical to me.
 
 ----
