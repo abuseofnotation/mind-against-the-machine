@@ -463,7 +463,7 @@ I urged her to tell us in more detail and she did:
 The girl started to chatter and Anton signaled me to interrupt her:
 "Okay, you'll tell us later!" I said. "We need to see your neighbor before he goes to bed."
 
-She quickly said goodbye to us and closed the door.
+She said goodbye to us and closed the door.
 
 As we headed upstairs, I began to remember that severe headache from the time of my encounter with the beam. I had experienced it only once in my life and hoped it would remain that way. Just hoped. It reappeared and increased with every step we climbed, bringing us closer to the other witness of the Phenomenon.
 

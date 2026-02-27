@@ -2,6 +2,7 @@
 title: What are we in for
 subtitle: Anna's kinky alter ego / Marijuana
 layout: one
+quote: "While we were walking back to the facility, Alex and Catherine asked if I was OK to sleep sometimes in Anna and Catherine's room."
 image: >
     <splasher data-size="constant" data-size-params="1" data-colors="black" data-map="fractal" data-params="5"></splasher>
     <splasher data-size="constant" data-size-params="2" data-map="constant" data-params="100"></splasher>

@@ -2,6 +2,7 @@
 title: Fence
 subtitle: 'Outside / Not being punished / Discreet and continuous models'
 layout: one
+quote: "Anna went immediately to Alex without ever paying attention to her friend, a gesture that felt theatrical and familiar."
 image: >
     <splasher data-size="constant" data-size-params="1" data-colors="black" data-map="fractal" data-params="111"></splasher>
     <splasher data-size="random" data-size-params="20" data-map="constant" data-params="1000"></splasher>

@@ -2,6 +2,7 @@
 title: Outside
 subtitle: 'This or nothing / The moon / Fractals / Me and Alex / Explanations / Is the world mathematical'
 layout: one
+quote: "After walking through the woods for a couple of minutes I stopped seeing the facility and totally lost sense of where I was."
 image: >
     <splasher data-size="constant" data-size-params="50" data-map="constant" data-params="2000"></splasher>
     <layer height="50%" y="25%" x="25%">

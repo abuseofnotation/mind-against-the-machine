@@ -2,6 +2,7 @@
 title: What are we in for contd
 subtitle:  The conformist choice / Taboos / Dichotomies /Marijuana
 layout: one
+quote: "I felt bad when I saw Anna's reaction, as I understood why she felt betrayed — she had opened to me with some of her most intimate secrets and I had given her nothing in return."
 image: >
     <splasher data-size="constant" data-size-params="1" data-colors="black" data-map="fractal" data-params="5"></splasher>
     <splasher data-size="constant" data-size-params="2" data-map="constant" data-params="100"></splasher>

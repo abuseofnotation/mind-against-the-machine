@@ -2,6 +2,7 @@
 title: The knapsack problem
 subtitle: "How to write a book / P and NP / leaving home"
 layout: one
+quote: "The Knapsack problem can be described in the following way: you have a backpack with a given volume and a bunch of objects that you want to put there, each with a different volume."
 image: >
     <plasher data-size="constant" data-size-params="100" data-map="constant" data-params="20000"></plasher>
     <plasher data-size="constant" data-size-params="50" data-map="constant" data-params="20000"></plasher>

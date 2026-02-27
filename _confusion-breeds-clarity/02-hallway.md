@@ -2,6 +2,7 @@
 title: Hallway
 subtitle: 'Church and Turing / Being stupid'
 layout: one
+quote: "We leave the room and walk down a big corridor that resembles the one from my school where the classrooms are."
 image: >
     <splasher data-size="constant" data-size-params="30" data-map="hallway" data-params="200"></splasher>
     <splasher data-size="random" data-size-params="10" data-map="hallway" data-params="200"></splasher>

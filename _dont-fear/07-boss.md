@@ -1,57 +1,77 @@
+
+But, as I mentioned , being a mediocre programmer was actually an advantage. I discovered this when Mirko became nervous and, out of the blue started bashing the way the whole project was designed and proposing his design instead.
+
+
+Whenever there is some task at hand, the person most qualified to do it becomes the boss and the rest of the people follow them. Hierarchy changes constantly based on the task at hand e.g. when we are doing activity A, the person who is best at A is “the boss”, when we are doing “B” the same person might be at the bottom of the pyramid.
+
+
+
 ---
-title: The boss
-subtitle: "Work as a parallel reality / Mirko's case / Realizing I crave attention"
-layout: fear
-tags: Mirko Anton
-quote: "I felt as if even the impressions of those two people that I had in my mind were so incompatible that their simultaneous existence caused me fatigue."
-image: |
----
 
-Work is an alternative reality---there are people whom I know at work, whom I don't know in my real life. Activities, hierarchies, various customs that only apply to this world that I inhabit 8 hours a day before I exit it and we go on with my live, while trying to make sense of it... or not. 
+"Maybe we could go along that line.... Apparently there is a connection between you two... Between you and Bonchev, I mean... That you saw it... It could have been anyone: your colleagues, some random passerby... But it's you and him. Why?"
 
-Some people try to blend work and real life. Or rather have their life get taken over by their job, as the reverse isn't permitted. These people are effectively giving up their identity in favour of their role as an employee. This probably costs them a lot, and I am sure they suffer (although they seem quite happy) but at least it makes the whole thing less hard to deal with, then, ahem... cases like mine. 
+"It's hardly a coincidence." I supported him. "Apparently the Phenomenon in some way PUSHED him to do what he did, in the same way it pushed me to write this program."
 
-But there were other weird cases as well: the next day after having this talk with Anhela, I had an encounter with a colleague of mine called Mirko. Besides colleague, he was a former classmate of mine, so I knew him from school and ever since then he was a brilliant mathematician, a brilliant computer scientist. Yes, and a huge nerd. Now, in parallel to working here, he was also studying in university---something which I also had on my list to do. Mirko on the other hand didn't have time for making friends (although I am not sure he had it on it's list).
+"You're talking out of your ass with these hasty conclusions... You know, 'After this, not because of this,' and so on, I mean, let's see what we have first..."
+"We have a corpse." I hinted, trying to think rationally. "And a suicide for an unknown reason."
+"Yes." Anton nodded. "Besides him, we have this program of yours that you wrote..."
+"My program is lost." I interrupted him.
+"Lost?"
+"Yes, it caused an infinite loop."
+"Infinite loop?"
+"Look it up on Google!" I said. In principle, the concept was interesting and it was always nice to explain it, but then I just couldn't be bothered with anything.
 
-Hey!
-{: .voice-snowball}
+Anton accepted my suggestion. He sat down in front of his computer, pressed a few keys, and his gaze began to roam the screen. He squinted and clicked something with the mouse. And at one point he was extremely surprised, apparently by something he was reading. His eyes widened as if they were about to pop out of their sockets, his lower lip hung to the ground, and only pulled back when he spoke again:
+"I have a theory about why Bonchev killed himself."
+"Why?"
 
-I heard Mirko's childlike voice and saw him coming towards me in his usual lumpy walk, due to which we called him "Snowball" at school (because when he walked he looked like a snowman who is rolling his lower snowball... nevermind). 
+He covered his mouth with his hand.
+"Out of fear."
+"Okay, imagine the following..." Anton began to speak. "This Bonchev... Actually, what's his first name? Doesn't matter... He's a scientist. Works his whole life on some construction projects, and accumulates serious knowledge of mathematics and physics. Then he gets retired. Since he has no wife or close people, he decides to devote himself to some of his own research, which gradually fills his entire life."
+"How do you know he has no close ones?"
+"No one called looking for him in these two days, right?"
 
-"Nice to see you! What are you up to?"
-{: .voice-x}
+So he delves deeply into these researches of his. Maybe he imagines he's on the verge of discovering some incredible theory that explains everything around us. Or maybe he really was, who knows. Suddenly he encounters the Phenomenon, and through it, for a few seconds, realizes that his whole life has been on the wrong path. That these theories of his, which he upheld, and which were for him almost like a religion, were just fiction.
 
-I said, and I really felt nice (although meshing my work life with my personal life usually made me nervous).
+"It's unlikely it happened just like that..."
 
-Of course, He came to talk about work. Mirko would never came to me for any other reason. He came and started briefing me about the situation he is in with his current project. The whole story was very convoluted and I was absent-mindedly waiting to hear when they would start telling me about how all this was related to the stuff I was working on. But this moment never came. After a couple of minutes he stopped talking and looked at me, as if he anticipated a response, but I really didn't know what to say.
+"Well, at first he didn't believe it." The Curious One continued. "This ties in: he ran to his home to check if he hadn't made a mistake. That's when he bumped into Tina. She helped him get to the apartment. There he had already realized with certainty that what he saw on February 14th really refuted his work and beliefs. Then he got into the bathtub and..."
+"But why did he do it?"
 
-I said that it sounded like his options are either to do A or do B (details omitted). He nodded. Then, I said that the upsides of A are such and such. And the upsides of B are such and such. He nodded again, as if , again, he was anticipating a response.
+"Look, an infinite loop is normal for computer programs." Anton said. "Perhaps a similar process is possible in the human brain." Especially in the brain of an engineer.
 
-"What you want me to say?"
-{: .voice-x}
+"Don't joke."
 
-"Tell me which one?"
-{: .voice-mirko}
+"I'm not joking at all. I mean, sometimes you guys are so stubborn, like blinkered horses, that nothing can deter you from the goal you've set. Take me for example. I'm stubborn. But if there's something I can't understand, or figure out, after two or three tries I just drop it. I give up. It gets boring."
+"And?"
 
-For a second I felt great, but then my pride because Mirko is asking for my opinion, was overshadowed by my the fear which my critical thinking facility always triggered when faced with something it doesn't fully grasp. I told him to do what he thinks is more appropriate and went outside to catch a breath of fresh air. I walked to the terrace with a view from Vitosha. I observed the mountain carefully, not fully admitting to myself that I was searching for a new phenomenon. There was no such thing. I wrote this while I was there:
+Well, that's normal. To say to yourself: "Well, screw it, I'm sick of dealing with just this thing! The world is huge, I'm not going to sit and butt my head against one little corner all my life, like a damned idiot!" You see, that's like a defense mechanism of the brain against a crash. Like a restart—you drop what's bored you and start something else. But with engineers, this mechanism is screwed up. They are willing to do anything to achieve their goal, or 'meet the conditions' as you programmers say. For example, Bonchev's goal was to understand the world around him. But suddenly the conditions changed and the goal became unachievable. So we come again to the moment when he lies down in the bathtub, takes his razor and...
 
-New day, new mountain
-And I am still there looking for
-that old thrill.
-{: .haiku}
+"And what was this something that he saw? The light?"
 
-While I was there resting I had a similarly-weird encounter with another colleague of mine who hated me, or at least wasn't a fan. She came to me and started making smalltalk, which was so clumsy that I won't try to write it up---if I do, it would consist of mostly Erm's and Mhm's followed by ellipsis. 
+"Hardly." The Curious One shrugged.
 
-I was wondering whether reality (or THAT PARTICULAR reality) completely broke, but soon I discovered the real reason for all this. It was when that colleague finished the conversation and she said "I am happy for you."
+"So we need to search his apartment..."
 
-People had found out I was being promoted.
+"Screw that!" Anton said. "If you want, go, but I personally don't want to see it at all."
 
-And Mirko was assigned in my team.
+Anton seemed to want to demonstrate with what ease he could give up on everything he didn't succeed with on the second or third try.
 
-Suddenly, everyone's attitude towards me had changed --- some people who didn't care about me suddenly started liking me (and some people with whom I previously talked abruptly stopped liking me), but the biggest difference was that I was no longer an outsider.
+"So you're giving up on investigating this, is that it?"
 
-This is when I realized that I never WANTED to be an outsider. I never wanted to be socially awkward. Quite the contrary, being with other people was a fundamental goal that I had (unconsciously) had pursued since I was little. This was valid even when it comes to people whom I didn't particularly fancy---I was, and still am egalitarian (and so was Anton, by the way). And my whole childhood, all those obscure interests, all those weird things that I did, all this longing for the unconventional, all this were just attempts to start a conversation with someone. My only goal with buying t-shirts of bands that noone knew was for the pretty girl from the other class to come and ask me what the hell is this weird unreadable logo. But I would have never admit it to anyone, not to her, and not even to my own stupid head---I just feared rejection too much. As every person who doesn't believe in themselves, I was just to constrained by only operating in the framework of what I thought was possible.
+"Well, yeah, I guess. In the sense that I don't want to be found in the bathtub myself, with..."
 
-Even now, when suddenly the things that were possible suddently changed, it was very hard for me to confess to myself that I actually craved for attention (after being, for so many years deprived of it). It took time for me to accept that rather than an artful introvert that I imagined myself as, who had mastered the art of avoiding and of being avoided, I was just a very unsuccessful extrovert. 
+"But what will we do then?"
 
-Later I'd come to realize that neither of these descriptions captured the full picture.
+"Well, Bonchev is our only lead. So for now, I guess we do nothing."
+
+After a while, Anton grumbled that he was hungry and asked me to help him prepare dinner. We agreed to eat in the house's dining room—a beautifully arranged room we had never used before because it was always too messy. But now that there weren't so many people in the house (the tenants still appeared sporadically, but they also obviously realized that the days of continuous partying were over), we could afford the luxury of using it.
+
+From there, we threw out the old dirty oilcloth that covered the table, and in its place put a clean white tablecloth. The Curious One stepped back a little, looked over the new arrangement, and satisfied with the result, went to prepare the food—he took a few potatoes out of the fridge, cut them without peeling them, and put them in the fryer. He also took two chicken cutlets, which had previously been swimming in a large pot with marinade.
+
+The two of us started setting the table: we spread the tablecloth and began arranging plates and glasses. We also took out the silverware that had been sitting in the sideboard of said dining room ever since we moved in here. I made a trip to the fridge and came back with some semi-finished dessert, which I placed in the middle of the table. Anton immediately went to the silverware drawer and returned with two small dessert spoons. This gesture inspired him and he headed to the living room, from where he returned with an unfinished bottle of white wine (at least that doesn't go bad). For it, we washed two glasses with stems, which we also found in the sideboard, and placed each of these items carefully, as if preparing a movie set. When we finished, the cutlets and fries were just done, so I poured them onto plates and sat at the table, waiting for Anton to follow. He, however, was staring at the ceiling and wandering aimlessly around the room. I called him several times, but he didn't answer. I could already sense he was pondering something. I didn't want to bother him, so I decided to wait a little more...
+"You know what?" He finally said. "However dangerous it is, I want to go back there. To see what Bonchev saw."
+"Isn't it too late?"
+"We can get there in half an hour. How does that sound to you?"
+"I don't know what to tell you, friend..."
+"Come on, don't explain." He said. "We'll eat when we get back."

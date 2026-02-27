@@ -2,6 +2,7 @@
 title: Good company
 subtitle: 'Social code / Anna / Catherine'
 layout: one
+quote: '"I hate this place," Alex said.'
 image: >
     <splasher data-size="constant" data-size-params="1" data-map="circle" data-params="40"></splasher>
     <splasher data-size="intensoReversed" data-size-params="30" data-map="centerProximity" data-params="10"></splasher>
