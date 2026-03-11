@@ -3,14 +3,13 @@ title: No answer
 subtitle: "Work as a parallel reality / Mirko's case / Realizing I crave attention / Meeting my team"
 layout: fear
 tags: Mirko Anton
-quote: "I felt as if even the impressions of those two people that I had in my mind were so incompatible that their simultaneous existence caused me fatigue."
+quote: "My only goal with buying t-shirts of bands that no one knew was for the pretty girl from the other class to come and ask me what the hell this weird unreadable logo was."
 image: |
 ---
 
 Work is an alternative reality—there are people I know at work whom I don't know in my real life. Activities, hierarchies, various customs that only apply to this world that I inhabit 8 hours a day before I exit and go on with my life, trying to make sense of it... or not. Some people try to solve this inconsistency by blending work and real life. Or rather, they have their life taken over by their job (as the reverse isn't permitted) effectively giving up their identity in favor of their role as an employee. This probably costs them a lot, and I am sure they suffer, but at least it makes the whole thing less hard to deal with than cases like mine.
 
-
-The day after my talk with Anhela, I had an encounter with a colleague of mine called Mirko, who was a perfect example of this breed. Besides being a colleague, he was a former classmate, and ever since we were in fifth grade, he had been a brilliant mathematician, a brilliant computer scientist. Yes, and a huge nerd and he was entirely devoted to his career. Now, in parallel to working here, he was also studying at university—something which I also had on my list to do. Mirko, on the other hand, didn't have time for making friends (although I'm not sure he had it on his list).
+The day after my talk with Anhela, I had an encounter with a colleague of mine called Mirko, who was a perfect example of this breed. Besgdes being a colleague, he was a former classmate, and ever since we were in fifth grade, he had been a brilliant mathematician, a brilliant computer scientist. Yes, and a huge nerd and he was entirely devoted to his career. Now, in parallel to working here, he was also studying at university—something which I also had on my list to do. Mirko, on the other hand, didn't have time for making friends (although I'm not sure he had it on his list).
 
 "Hey!"
 {: .voice-mirko}
@@ -53,21 +52,23 @@ Suddenly, everyone's attitude toward me had changed—some people who didn't car
 
 This is when I realized that I never WANTED to be an outsider. I never wanted to be socially awkward. Quite the contrary—being with other people was a fundamental goal that I had (unconsciously) pursued since I was little. This was valid even when it came to people I didn't particularly fancy—I was, and still am, egalitarian (and so was Anton, by the way). And my whole childhood, all those obscure interests, all those weird things that I did, all this longing for the unconventional—all of this was just an attempt to start a conversation with someone. My only goal with buying t-shirts of bands that no one knew was for the pretty girl from the other class to come and ask me what the hell this weird unreadable logo was. But I would never have admitted it to anyone—not to her, and not even to my own stupid head. I just feared rejection too much. Like every person who doesn't believe in themselves, I was too constrained by only operating in the very narrow and pessimistic framework of what I thought was possible.
 
-And even when the things that were possible had changed, fear often prevented me from confessing to myself that I actually craved attention (after being deprived of it for so many years). It took time for me to come to term with the reality that there was something wrong. That rather than the artful introvert that I imagined myself as, who had mastered the art of avoiding and of being avoided, I was just a very unsuccessful extrovert.
+And even when the things that were possible had changed, fear often prevented me from confessing to myself that I actually craved attention (after being deprived of it for so many years). It took time for me to come to term with the reality that there was something wrong. That rather than the highly-functional introvert that I imagined myself as, who had mastered the art of avoiding and of being avoided, I was just a very unsuccessful extrovert.
 
 But, to be precise, I was neither of those things: my position on the extrovert/introvert axis was varying—I craved attention, but only REAL, genuine attention. I wanted connections, but only meaningful ones, ones that I could use to enrich my worldview, and if I didn't think of the connections as meaningful, I would immediately switch to introvert mode.
 
-For this reason, I had a very limited number of connections in my personal life, as I could never maintain connections with people I was genuinely into and who were genuinely into me as well, and few people were genuinely into me all the time.
+For this reason, I had become a full-time introvert. I had a very limited number of connections in my personal life, as I could never maintain connections with people I was genuinely into and who were genuinely into me as well, and few people were genuinely into me all the time.
 
 But the promotion changed my situation completely, at least when it comes to the alternative reality of work, which I already discussed. Because at work I had already accepted that I was obliged to be social with my colleagues for the duration of the workday, and because ever since I was promoted, suddenly my colleagues wanted to be social with me as well—or at least they preferred me to Anhela—suddenly everyone wanted to be on my team. Everyone but one person.
 
 I found most of this about myself during my first meeting with my new team. I was nervous before the meeting because I couldn't recreate any of the code thanks to which I was promoted in the first place, but the second I entered the conference room, I realized that this was the least of my worries. The people on my team were so chaotic, and holding a meeting with them was so hard, that I almost never had time to talk about the actual task at hand. I had never noticed the invisible strings that held people together, and how much work it took to operate them.
 
-At the end of the meeting I was sure I had failed it—I hadn't said almost anything of value, but it turned out I did well. Apparently my colleagues were inspired by me and they took the initiative. Slowly, the project started moving, although I didn't know almost anything about either managing projects or programming. I could not help but feel proud when I saw the way they were listening to me, although I actually didn't know what I was talking about.
+At the end of the meeting I was sure I had failed it—I hadn't said almost anything of value, but it turned out I did well. Apparently my colleagues were inspired by me and they took the initiative. Slowly, the project started moving, although I didn't know almost anything about either managing projects or programming. I could not help but feel proud when I saw the way they were listening to me, although I actually didn't know what I was talking about. 
 
-For this whole week I didn't manage to visit Curious. and to see the girl who knew someone who had seen the phenomenon. The whole thing was very hard to arrange—as with everything that has to do with Anton, they wanted me to go to their place at noon, so we could discuss something and then call her and arrange the meeting with her at a time she was comfortable with. But because I was working long hours and Anton lived very far away, there was virtually no way to organize the whole thing.
+Later, I learned that being not-so-capable of what you do sometimes had its advantages. For example an elementary, suboptimal solution to a problem was sometimes a much better starting point than more complex one --- the simpler solution was much easier for everyone to start working on.  That's because everyone can understand and improve a crappy design. Good designs, they leave people wondering what is this weird thing that they are seeing, too paralyzed to act. Bad designs, at least MY bad designs were the opposite: any errors that I made initially were corrected. Everything that was missing was quickly filled. And we were going full steam ahead. And we were probably gonna end up SOMEWHERE.
 
-On the day I received my first big salary. I felt rich and I decided to get a cab and arrange the whole trip. I took a car directly from work, traveled all the way to their house, took them with the car (waited half an hour for them), and finally went to find the address of the girl. For half an hour we traveled around this part of Sofia, where I had never set foot before. Then we got out of the car and started walking around the neighborhood, playing "Spot the Ten Differences" with the absolutely identical apartment blocks, which created a feeling of lack of movement—wherever we turned we saw the same thing, as if we were sailors traveling the open ocean.
+For this whole week I didn't manage to visit Curious. and to see the girl who knew someone who had seen the phenomenon. The whole thing was very hard to arrange, as with everything that has to do with Anton. They wanted me to go to their place at noon, so we could discuss something and then call her and arrange the meeting with her at a time she was comfortable with. But because I was working long hours Anton lived very far away, and the girl was also near the end of the city, there was virtually no way to organize the whole thing.
+
+But on the day I received my first new salary, the situation changed dramatically. My salary was high, very high. Not only could I rent my own place, if I wanted to, I could BUY my own place in a year! I felt rich. So, I immediately took a cab (I don't drive) and arranged the whole trip. I took a car directly from work, traveled all the way to Anton's house, took them with the car (waited half an hour for them to get ready, of course), and finally went to find the address of the girl. For half an hour we traveled around this part of Sofia, where I had never set foot before. Then we got out of the car and started walking around the neighborhood, playing "Spot the Ten Differences" with the absolutely identical apartment blocks, which created a feeling of lack of movement—wherever we turned we saw the same thing, as if we were sailors traveling the open ocean.
 
 At one point, Anton stopped and fixed their gaze on an inscription scratched next to one of the entrances.
 
@@ -106,9 +107,8 @@ I had to rescue Anton from her by playing the role of the bad cop, which they ha
 
 The girl started to chatter and Anton signaled me to interrupt her:
 
-"Okay, you'll tell us later!" I said. "We need to see your neighbor before he goes to bed."
-
-She said goodbye to us and closed the door.
+"Okay, you'll tell us later! We need to see your neighbor before he goes to bed."
+{: .voice-x}
 
 As we headed upstairs, I began to remember that severe headache from the time of my encounter with the beam. I had experienced it only once in my life and hoped it would remain that way. Just hoped. It reappeared and increased with every step we climbed, bringing us closer to the other witness of the Phenomenon. "We're on the right track," I said, while massaging my temples. I was so bad that Curious almost dragged me to the door. They pressed the doorbell. No one opened.
 
@@ -119,26 +119,37 @@ As we headed upstairs, I began to remember that severe headache from the time of
 
 Curious grabbed the door handle and shook it, causing the lock's bolt to start rattling.
 
-While they were knocking on the door, I saw that there was a sign on the door.
+While they were doing that, I saw a black-and-white sign on the door.
 
 Bonchev had died the previous day.
 
 ---
 
-The pain made me close my eyes and scream. For a moment everything disappeared again (which made me feel calmer). My next memory was of us leaving the apartment. I felt the hand of Curious, who had grabbed me around the waist and was dragging me down the stairs. Then one of the doors on the staircase opened—someone had heard us:
+The pain made me close my eyes and scream. For a moment everything disappeared again (which made me feel calmer)....
 
-"Hey, Curious! What happened to your friend?" I recognized Tania's voice.
+My next memory was of us leaving the apartment. I felt the hand of Curious, who had grabbed me around the waist and was dragging me down the stairs. Then one of the doors on the staircase opened—Tania had heard us:
+
+"Hey, Curious! What happened to your friend?" 
+{: .voice-tania}
+
 
 "Nothing's wrong with him! We're leaving now!"
+{: .voice-anton}
 
-"But where are you taking him?" she continued. "Stop for a moment! What happened upstairs? Curious!"
+"But where are you taking him? Curious!"
+{: .voice-tania}
 
 They stopped and turned to her:
 
-"Tania, don't you remember my real name?"
+"Tania, don't you know my real name?"
+{: .voice-anton}
 
-"Well no."
+"Well.... no."
+{: .voice-tania}
 
 She sounded extremely worried.
 
-"Great!" Anton turned their back on her and continued down.
+"Great!" 
+{: .voice-anton}
+
+Anton turned their back on her and continued down.

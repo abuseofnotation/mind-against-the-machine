@@ -6,7 +6,7 @@ quote: 'Sometimes it seemed to me that I was missing something very important fr
 image: |
 ---
 
-"My world was not a world of DARKNESS but one of FOG."
+> "My world was not a world of DARKNESS but one of FOG."
 
 The Phenomenon is a novel about a feeling most people recognise but few can name — the claustrophobia of a mind that sees its cage, but cannot find the door. About the particular experience of being awake, dissatisfied, and stuck — in an office, in a family, in a city, in your own skull. About the conversations that drain you and the silence that follows. About the moments of sudden, inexplicable clarity that appear and dissolve without explanation.
 
@@ -36,4 +36,3 @@ After school, I went to study at the Technical University. I almost managed to g
 
 I started working as a software developer about a year ago. I had no reason to complain -- my salary was good, the place was also OK (at least I thought so back then), but despite that I felt like I hadn’t achieved enough on a personal level. On the contrary -- I felt like my level was dropping. Sometimes it seemed to me that I was missing something very important from life. Something that it seemed everyone else knew and was hiding from me, to laugh at me behind my back. In such cases, I liked to write. I did it since I was little. In a black notebook I would jot down thoughts and ideas that came to mind. One or two sentences written in a rush. The idea was for them to be like advice to myself, like the one you see above and the ones you’ll see regularly throughout the text. My notes helped me concentrate (at least I thought so back then), and gave an opportunity for the strange ideas, which kept coming to me anyway, to be put to use.
 
-In short, this is my story from birth to the last three days. For them, I think I’ll tell you in a bit more detail.

@@ -7,65 +7,48 @@ Plots
 - X goes is in love with a friend of Yana's
 - 
 
-I realized I was going crazy just looking at Anton, as if every pore of his skin had turned into a miniature mouth that constantly spat on everything and everyone who had ever set foot on this planet. He believed only in himself, couldn't tolerate anyone else's opinion, and the worst part was that what he said really sounded logical. The nasty brat... Even if he spoke the biggest and most unheard-of nonsense, for some reason when I was with him, it sounded super logical to me.
+---
 
-----
+Lüscher color test
 
-"Okay, and where exactly does she live?"
+The examined person needs acknowledgement and tries to place himself on higher level, but this is an unnatural behaviour, which is compensator and can often express too stubborn and self-centered attitude. For him this is a way to compensate discarded emotions.
+His behaviour is characterized by calmness if the person is connected with other person, organization or gang whom he can trust. Stress comes from the unwanted shackles and conventions. He faces stress which is caused by frustration and him trying to reach safety and understanding. He wants to live it all intensively, but he considers the current situation extremely limiting. The sence of helplessness, combined with frustration with the fact that he cannot control the course of events makes him excitable, irritable and distressed. Too sensitive when it comes to any kind of critic.
 
-Pay more attention to details.
-{: .note}
+---
+-1- i h8 exclamation marks and their corresponding emotions. ive probably used it five or six times in my life!
 
-From there, we threw out the old dirty oilcloth that covered the table, and in its place put a clean white tablecloth. The Curious One stepped back a little, looked over the new arrangement, and satisfied with the result, went to prepare the food—he took a few potatoes out of the fridge, cut them without peeling them, and put them in the fryer. He also took two chicken cutlets, which had previously been swimming in a large pot with marinade.
+-2- i have extremely high self confidence combined with bursts of fear.
 
-The two of us started setting the table: we spread the tablecloth and began arranging plates and glasses. We also took out the silverware that had been sitting in the sideboard of said dining room ever since we moved in here. I made a trip to the fridge and came back with some semi-finished dessert, which I placed in the middle of the table. Anton immediately went to the silverware drawer and returned with two small dessert spoons. This gesture inspired him and he headed to the living room, from where he returned with an unfinished bottle of white wine (at least that doesn't go bad). For it, we washed two glasses with stems, which we also found in the sideboard, and placed each of these items carefully, as if preparing a movie set. When we finished, the cutlets and fries were just done, so I poured them onto plates and sat at the table, waiting for Anton to follow. He, however, was staring at the ceiling and wandering aimlessly around the room. I called him several times, but he didn't answer. I could already sense he was pondering something. I didn't want to bother him, so I decided to wait a little more...
-"You know what?" He finally said. "However dangerous it is, I want to go back there. To see what Bonchev saw."
-"Isn't it too late?"
-"We can get there in half an hour. How does that sound to you?"
-"I don't know what to tell you, friend..."
-"Come on, don't explain." He said. "We'll eat when we get back."
+-3- my baby teeth were black.
 
-In ten minutes, we reached the neighborhood where the man lived again. Anton got out of the car while it was still moving and walked with quick steps towards the entrance, mumbling something under his nose:
-"What did he say?" I asked.
-"I was wondering, after all, what was so damn scary, for God's sake?"
+-4- i produce music, write poetry and prose (as you no doubt know) i drink and smoke joint in my spare time and consider graphic design my “hobby”.
 
-The light on the staircase was burnt out. We waited for it to go off, and headed to the apartment, lighting the way with our phone screens. We reached the apartment. Slowly we opened the door, preparing to run if we encountered someone. But it wasn't necessary. No one had come and everything was exactly as we had left it. And the owner himself was there, though not in form. Since bodies decompose very quickly in water, his face was...
+-5- check the blog’s title.
 
-You get the idea.
-"But look at what he's turned into!" Anton said.
-"I suggest we search the apartment and get the hell out, as quickly as possible." I replied.
+---
 
-We thought we'd start by examining Bonchev's work, i.e., the blueprints scattered throughout his apartment, but there were so many that we could hardly go through all of them, and they were so complex that we wouldn't fully understand even one of them.
-"Are they only written with formulas?" I asked.
-"There's a little text here too." The Curious One waved a small piece of paper. "Some reflections on life."
-"Do they match your theory of what he was like?"
+the games you play, all day
+to feel the heat, to feel the speed
+the games that are crucial for your existence
+lest you forget that youre alive
 
-Instead of answering me, Anton started reading:
+and when you win you die for a sec
+thats just another stupid game until you play again
+the game of life can be really fun
+bu you gotta play the game until the game is done
+
+---
 
 And the image of the superman, described by Nietzsche, is one of the greatest myths of the 20th century. The heroes of Ayn Rand, who never doubt themselves and their goals, are also a myth. Because fanatics and careerists will never have abilities that can match their self-confidence. The true striving for self-improvement does not come from an ambition to be better, but from the realization of how pitiful we actually are. And true understanding is nothing other than reverence for that which we cannot...
 
-"Okay, that's enough for now... Does this match your idea of Bonchev?"
-"I don't know, but it sounds quite interesting..." Anton said in a tone that hinted he had gotten sidetracked again and had forgotten where he was and why.
-"Yes, it's interesting, but it doesn't help us!" I said. "Come on, keep searching!"
-
-
-
-
-
-----------------
 
 i wouldn't say this out loud, but i think i became a programmer precisely because of that desire for control that anton talked about. it's a job that isolates you from all unpredictable factors and where everything that happens is a direct or indirect result of your actions – in the good case direct, and in the bad – indirect. complete control. and from there comes my problem. to believe that i am some form of messiah would mean to admit to myself that i have no power over myself, and that my fate depends entirely on an unexplored force whose purpose is unknown to me.
-
-
-----
-
 
 
 ---------------
 
 
 "I know who you are. If I only knew who *I* am"
-
 
 -----------
 
@@ -431,49 +414,6 @@ After a few days, I dug it out from there to compose this text based on it.
 
 
 
-
-
-
-
-
-----
-
-
-Something had happened to Anton after we left. His smile had vanished, and his face now looked broken and unhappy. I was used to such changes: he often jumped from states of purest joy to mind-boggling despair, the change always instantaneous and easily noticeable, as if someone were switching his moods with a remote. And when we left the apartment, that remote was switched to the "DEPRESSION" channel.
-
-"What's wrong with you?" I asked him.
-
-Mentally, I went over our last conversation and answered myself for what Anton was experiencing. He really liked the fact that the Phenomenon existed. It made his life more beautiful because the reality beyond the limits of our understanding made him forget about that other reality we face every day (drugs had the same effect on him). A little while ago, Mirko, and to some extent I, had hinted to him that the Phenomenon didn't exist. And that was apparently enough to shake his own faith.
-
-He sat on the sidewalk and seemed to wait for something to happen. I wanted to ask him immediately how he felt, but instead I sat next to him and waited for him to speak first:
-
-"It's gone, seems like," he said.
-
-"Maybe."
-
-"Engineer. Didn't you support that evolution theory?"
-
-"I find it meaningful, yes," I said cautiously, expecting him to explode. Instead, he got annoyed:
-
-"I know you find it meaningful, but I'm asking something else: Do you think it applies now. To us humans. That the world we inhabit at the moment is one big progress machine, driven by the 'fittest'?"
-
-"And what if it is?"
-
-"Well, nothing, I was just wondering what my role is in such a world?!"
-
-"Well, it's simple. So, when the circumstances around you change, you adapt to them, because otherwise you'll die. In a way, the reason for change is your self-preservation instinct, or in other words, fear of death. Because that's what the self-preservation instinct is—fear of death, right?"
-
-"And?"
-
-"Well, okay, now imagine some guy like me, who isn't afraid of death, and lives as he WANTS, not as is best for him? A person who just wants to live as he likes. If we're just a more talkative version of animals, where is THAT PERSON'S place in the picture?"
-
-It struck me how The Curious One seemed to be hiding himself under the expression "that person."
-
-"Well, aren't you afraid of death?"
-
-"I have no idea. Stop asking questions."
-
-"Sorry. That's probably the only thing I know how to do."
 
 A girl, roughly our age, passed by us, riding a bicycle. I got déjà vu. I had the feeling I'd seen her somewhere, but couldn't remember exactly where. She, however, apparently remembered, because she turned the handlebars and headed toward me.
 
