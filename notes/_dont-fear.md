@@ -12,6 +12,7 @@ Plots
 Lüscher color test
 
 The examined person needs acknowledgement and tries to place himself on higher level, but this is an unnatural behaviour, which is compensator and can often express too stubborn and self-centered attitude. For him this is a way to compensate discarded emotions.
+
 His behaviour is characterized by calmness if the person is connected with other person, organization or gang whom he can trust. Stress comes from the unwanted shackles and conventions. He faces stress which is caused by frustration and him trying to reach safety and understanding. He wants to live it all intensively, but he considers the current situation extremely limiting. The sence of helplessness, combined with frustration with the fact that he cannot control the course of events makes him excitable, irritable and distressed. Too sensitive when it comes to any kind of critic.
 
 ---
@@ -44,13 +45,9 @@ And the image of the superman, described by Nietzsche, is one of the greatest my
 
 i wouldn't say this out loud, but i think i became a programmer precisely because of that desire for control that anton talked about. it's a job that isolates you from all unpredictable factors and where everything that happens is a direct or indirect result of your actions – in the good case direct, and in the bad – indirect. complete control. and from there comes my problem. to believe that i am some form of messiah would mean to admit to myself that i have no power over myself, and that my fate depends entirely on an unexplored force whose purpose is unknown to me.
 
-
 ---------------
 
 
-"I know who you are. If I only knew who *I* am"
-
------------
 
 I was still gathering my thoughts when I picked up the phone and dialed my office number:
 "Hello, Yule, is that you?"

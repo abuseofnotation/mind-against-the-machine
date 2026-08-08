@@ -46,7 +46,7 @@ I didn't mean it as a way to end the conversation. In principle, the concept was
 
 After a while, Anton grumbled that they were hungry and asked me to help them prepare dinner. We agreed to eat in the house's dining room—a beautifully arranged room we had never used before because it was always too messy. But now that there weren't so many people in the house (the tenants still appeared sporadically, but they also obviously realized that the days of continuous partying were over), we could afford the luxury of using it.
 
-From there, we threw out the old dirty oilcloth that covered the table, and in its place put a clean white tablecloth. Curious stepped back a little, looked over the new arrangement, and satisfied with the result, went to prepare the food—they took a few potatoes out of the fridge, cut them without peeling them, and put them in the fryer. They also took two chicken cutlets, which had previously been swimming in a large pot with marinade.
+From there, we threw out the old dirty oilcloth that covered the table, and in its place put a clean white tablecloth. Curious stepped back a little, looked over the new arrangement, and, satisfied with the result, went to prepare the food—they took a few potatoes out of the fridge, cut them without peeling them, and put them in the fryer. They also took two chicken cutlets, which had previously been swimming in a large pot with marinade.
 
 The two of us started setting the table: we spread the tablecloth and began arranging plates and glasses. We also took out some of the silverware that had been sitting in the sideboard of said dining room ever since we moved in here. I made a trip to the fridge and came back with some semi-finished dessert, which I placed in the middle of the table. Anton immediately went to the silverware drawer and returned with two small dessert spoons. This gesture inspired them and they headed to the living room, from where they returned with an unfinished bottle of white wine (at least it doesn't go bad). For it, we washed two glasses with stems, which we also found in the sideboard, and placed each of these items carefully, as if preparing a movie set. When we finished, the cutlets and fries were just done, so I poured them onto plates and sat at the table, waiting for Anton to follow. They, however, were staring at the ceiling and wandering aimlessly around the room. I called them several times, but they didn't answer. I could already sense they were pondering something. I didn't want to bother them, so I decided to wait a little more...
 
@@ -80,7 +80,7 @@ With this, Anton was no doubt showing their dissatisfaction with their own obses
 
 Indeed, even though Anton was trying to differentiate themselves from people like me and their image of Bonchev—"engineers" as they had dubbed us—they weren't immune to loops.
 
-In fact this behavior of theirs was a loop par excellence.
+In fact, this behavior of theirs was a loop par excellence:
 
 1. They obsess over something up to the point when they cannot breathe without it,
 2. They feel trapped by their obsession and...
@@ -127,4 +127,6 @@ Make up a list of excuses for ending any conversation.
 
 After that I took the flowers that I bought to place them on L.'s grave and when I saw her picture I realized what had happened with her. She did not slip. She did the same thing that she I did all the time, (and that I do all the time too). She escaped.
 
-As I exited the room, my memories started coming, more vivid than reality itself. I let myself be captured by them, to experience L.'s presence once again, or perhaps for the first time, and I finally cried.
+As I exited the room, my memories started becoming vivid, more vivid than reality itself. I let myself be captured by them, to experience L.'s presence once again, or perhaps for the first time ever, and I finally cried.
+
+

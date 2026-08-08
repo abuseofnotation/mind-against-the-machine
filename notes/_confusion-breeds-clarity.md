@@ -1,4 +1,8 @@
+Brief Marxist economics: 
 
+People's net worth defines a spectrum of exploitation: at 0 are people who have to work all the time and make no money, at 10000000 (don't know how many zeroes I have to put) are the ones who don't have to work and make all the money (although they might still work, or give the impression that they do, to avoid conflicts).
+
+The "middle class", are the ones that both exploit the workers and are being exploited by the capitalists, so they are even, you can say.  
 
 Characters
 ===

@@ -1,6 +1,6 @@
 ---
 title: No answer
-subtitle: "Work as a parallel reality / Mirko's case / Realizing I crave attention / Meeting my team"
+subtitle: "Work as a parallel reality / Mirko's case / Realizing I crave attention / Meeting my team / The world's first good boss / Rich / Seeing the withness"
 layout: fear
 tags: Mirko Anton
 quote: "My only goal with buying t-shirts of bands that no one knew was for the pretty girl from the other class to come and ask me what the hell this weird unreadable logo was."
@@ -65,6 +65,8 @@ I found most of this about myself during my first meeting with my new team. I wa
 At the end of the meeting I was sure I had failed it—I hadn't said almost anything of value, but it turned out I did well. Apparently my colleagues were inspired by me and they took the initiative. Slowly, the project started moving, although I didn't know almost anything about either managing projects or programming. I could not help but feel proud when I saw the way they were listening to me, although I actually didn't know what I was talking about. 
 
 Later, I learned that being not-so-capable of what you do sometimes had its advantages. For example an elementary, suboptimal solution to a problem was sometimes a much better starting point than more complex one --- the simpler solution was much easier for everyone to start working on.  That's because everyone can understand and improve a crappy design. Good designs, they leave people wondering what is this weird thing that they are seeing, too paralyzed to act. Bad designs, at least MY bad designs were the opposite: any errors that I made initially were corrected. Everything that was missing was quickly filled. And we were going full steam ahead. And we were probably gonna end up SOMEWHERE.
+
+I decided that this was my chance to be the world's first good boss, one who gives chance to their colleagues to actually use their heads. I said to everyone that I am not going to be the boss. Instead, we would all alternate this role: whenever there is some task at hand, the person most qualified to do it becomes the boss and the rest of the people follow them. Hierarchy changes constantly based on the task at hand e.g. when we are doing activity A, the person who is best at A is “the boss”, when we are doing “B” the same person might be at the bottom of the pyramid. People didn't understand at first, but I think they found it interesting.
 
 For this whole week I didn't manage to visit Curious. and to see the girl who knew someone who had seen the phenomenon. The whole thing was very hard to arrange, as with everything that has to do with Anton. They wanted me to go to their place at noon, so we could discuss something and then call her and arrange the meeting with her at a time she was comfortable with. But because I was working long hours Anton lived very far away, and the girl was also near the end of the city, there was virtually no way to organize the whole thing.
 
