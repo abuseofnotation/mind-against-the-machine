@@ -1,3 +1,16 @@
+
+---
+
+Being a mediocre programmer was actually an advantage. I discovered this when Mirko became nervous and, out of the blue started bashing the way the whole project was designed and proposing his design instead.
+
+---
+
+"I know who you are. If I only knew who *I* am"
+
+-----------
+
+
+
 "I'm a bit tired now," I said to him. "Maybe I'll go."
 "Relax, you can sleep at my place."
 "Where."

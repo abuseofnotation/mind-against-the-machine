@@ -85,11 +85,3 @@ In the moment that we left school, in the hangover after our prom night, or at l
 
 We knew full well that we could not even hope to have it go back again. So, we tried to replace it with something, they with "irony", me, with "work". Both of these things were, of course, pretty lousy replacements and so we had nothing to do but to laugh at each other, as a person who replaced their nose with a carrot, laughs at the one who replaced it with with a cucumber. Both of them were basically a variation of "Don't take yourself too seriously". But our situation WAS serious. And we probably had to acknowledge that at some point.
 
-Being a mediocre programmer was actually an advantage. I discovered this when Mirko became nervous and, out of the blue started bashing the way the whole project was designed and proposing his design instead.
-
----
-
-"I know who you are. If I only knew who *I* am"
-
------------
-
